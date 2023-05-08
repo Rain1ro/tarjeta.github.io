@@ -90,7 +90,7 @@ body {
 
 .birthday-card:hover {
     .cover-outer {
-        transform: perspective(800px) rotateY(-170deg);
+        transform: perspective(800px) rotateY(-170deg) rotate(5deg);
     }
     .cover-inner {
         transform: perspective(800px) rotateY(-170deg);
