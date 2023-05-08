@@ -6,8 +6,8 @@ body {
 
 .birthday-card {
     position: relative;
-    width: 100px;
-    height: 200px;
+    width: 160px;
+    height: 250px;
     border: 10px solid #ef5050;
     margin: 60px auto 0 auto;
     box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
@@ -30,13 +30,13 @@ body {
             color: #331717;
             list-style: 1.4;
             font-style: italic;
-            text-align: cover;
+            text-align: center;
             margin: 10px auto 0 auto;
         }
 
         .title {
             font-size: 1em;
-            margin: 200px auto 60px auto;
+            margin: 20px auto 60px auto;
         }
     }
 
