@@ -28,7 +28,7 @@ body {
         >p {
             font-size: 1em;
             color: #331717;
-            list-style: 1.4;
+            list-style: 1;
             font-style: italic;
             text-align: center;
             margin: 10px auto 0 auto;
@@ -36,7 +36,7 @@ body {
 
         .title {
             font-size: 1em;
-            margin: 20px auto 60px auto;
+            margin: 20px auto 30px auto;
         }
     }
 
