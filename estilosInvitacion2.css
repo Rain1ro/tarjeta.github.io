@@ -22,7 +22,7 @@ body {
     overflow: hidden;
 }
 
-/* Dinosaurio */
+
 .dino {
     position: absolute;
     bottom: 20px;
@@ -32,7 +32,6 @@ body {
     background: #333;
 }
 
-/* Suelo */
 .ground {
     position: absolute;
     bottom: 0;
